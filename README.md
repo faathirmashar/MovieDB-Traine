@@ -15,7 +15,7 @@ debug {
 ```
 
 ## Tech stack & Open-source libraries
-- Minimum SDK level 22
+- Minimum SDK level 23
 - 100% [Kotlin](https://kotlinlang.org/) based
 - JetPack
   - Lifecycle - dispose observing data when lifecycle state changes.
